@@ -1,0 +1,17 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+pillow==10.1.0
+ffmpeg-python==0.2.0
+pydub==0.25.1
+transformers==4.36.0
+torch==2.4.0
+pytrends==4.9.2
+language-tool-python==2.7.1
+openai>=1.10.0
+python-dotenv==1.0.0
+PyDrive2==1.19.0
+faster-whisper==0.10.0
+google-auth==2.25.2
+google-auth-oauthlib==1.1.0
+google-auth-httplib2==0.1.1
